@@ -1,4 +1,5 @@
-Developer  x  Educator <br>MERN - JAVA - DSA - AWS<br>A family of Love & Affection.
-More About Me[#https://anuragaffection.gklite.in]
+**Developer × Educator**  
+MERN | Go | Java | DSA | AWS | Flutter
+A family of Love & Affection.  
 
-
+[More About Me](https://anuragaffection.gklite.in)
