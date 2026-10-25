@@ -1,8 +1,15 @@
 {
-  "current": 12,
-  "asked": [],
+  "current": 6,
+  "asked": [
+    12
+  ],
   "tried": {},
-  "since": null,
-  "leaderboard": {},
-  "lastSolved": null
+  "since": "2026-10-25T08:08:23.214Z",
+  "leaderboard": {
+    "anuragaffection": 1
+  },
+  "lastSolved": {
+    "id": 12,
+    "login": "anuragaffection"
+  }
 }
