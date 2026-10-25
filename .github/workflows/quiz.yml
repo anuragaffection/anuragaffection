@@ -1,0 +1,73 @@
+# README quiz: answers come in as issues titled "quiz: Q<id> <A-D>" (links in the README).
+# The bot checks the answer, replies, closes the issue and updates README.md.
+# A new question also rotates in every morning (06:00 IST).
+name: quiz
+
+on:
+  issues:
+    types: [opened]
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+# one run at a time, so two answers can't overwrite each other's state
+concurrency:
+  group: quiz
+  cancel-in-progress: false
+
+jobs:
+  answer:
+    if: github.event_name == 'issues' && startsWith(github.event.issue.title, 'quiz:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # the title is untrusted: passed as an env var (never inlined into the script),
+      # and quiz.mjs only accepts it through a strict regex
+      - run: node scripts/quiz.mjs answer
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const issue_number = context.payload.issue.number;
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number, body: fs.readFileSync("reply.md", "utf8"),
+            });
+            await github.rest.issues.update({
+              ...context.repo, issue_number, state: "closed", state_reason: "completed",
+            });
+      - name: Save
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md quiz/state.json
+          git diff --cached --quiet || git commit -m "quiz : answer from @${ISSUE_USER}"
+          git pull --rebase -q && git push -q
+        env:
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+
+  rotate:
+    if: github.event_name != 'issues'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/quiz.mjs rotate
+      - name: Save
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md quiz/state.json
+          git diff --cached --quiet || git commit -m "quiz : new question"
+          git pull --rebase -q && git push -q

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="262" viewBox="0 0 720 262" role="img" aria-label="Anurag: Developer × Educator. MERN, Go, Java, DSA, AWS, Flutter. सीखना और सिखाना — learn, and teach.">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Noto Sans Devanagari",monospace;font-size:16px}
+.p{fill:#3fb950}.cmd{fill:#e6edf3}.out{fill:#8b949e}
+.cur{fill:#e6edf3;animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}@keyframes show{to{opacity:1}}
+.w0{animation:w0 0.36s steps(6) 0.4s forwards}@keyframes w0{to{width:64px}}
+.o0{opacity:0;animation:show .3s 1.26s forwards}
+.w1{animation:w1 0.78s steps(13) 1.76s forwards}@keyframes w1{to{width:134px}}
+.o1{opacity:0;animation:show .3s 3.04s forwards}
+.w2{animation:w2 0.6599999999999999s steps(11) 3.54s forwards}@keyframes w2{to{width:114px}}
+.o2{opacity:0;animation:show .3s 4.7s forwards}
+</style>
+<rect width="720" height="262" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="360" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">anurag@github: ~</text>
+<g><text x="24" y="58" class="p">$</text><clipPath id="c0"><rect x="40" y="40" height="24" width="0" class="w0"/></clipPath><text x="42" y="58" class="cmd" clip-path="url(#c0)">whoami</text></g>
+<text x="24" y="84" class="out o0">Anurag · Developer × Educator</text>
+<g><text x="24" y="118" class="p">$</text><clipPath id="c1"><rect x="40" y="100" height="24" width="0" class="w1"/></clipPath><text x="42" y="118" class="cmd" clip-path="url(#c1)">cat stack.txt</text></g>
+<text x="24" y="144" class="out o1">MERN · Go · Java · DSA · AWS · Flutter</text>
+<g><text x="24" y="178" class="p">$</text><clipPath id="c2"><rect x="40" y="160" height="24" width="0" class="w2"/></clipPath><text x="42" y="178" class="cmd" clip-path="url(#c2)">echo $MOTTO</text></g>
+<text x="24" y="204" class="out o2">सीखना और सिखाना — learn, and teach.</text>
+<text x="24" y="238" class="p">$</text><rect x="42" y="223" width="9" height="18" class="cur"/>
+</svg>
