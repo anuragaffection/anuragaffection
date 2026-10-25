@@ -56,7 +56,7 @@ ${css.join("\n")}
 </style>
 <rect width="${W}" height="${H}" rx="12" fill="#0d1117" stroke="#30363d"/>
 <circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
-<text x="${W / 2}" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">anurag@github: ~</text>
+<text x="${W / 2}" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">anuragaffection@github: ~</text>
 ${rows.join("\n")}
 </svg>
 `;

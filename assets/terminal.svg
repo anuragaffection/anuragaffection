@@ -13,7 +13,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Noto Sans Devanagar
 </style>
 <rect width="720" height="262" rx="12" fill="#0d1117" stroke="#30363d"/>
 <circle cx="22" cy="20" r="6" fill="#ff5f56"/><circle cx="42" cy="20" r="6" fill="#ffbd2e"/><circle cx="62" cy="20" r="6" fill="#27c93f"/>
-<text x="360" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">anurag@github: ~</text>
+<text x="360" y="25" text-anchor="middle" fill="#6e7681" style="font-size:13px">anuragaffection@github: ~</text>
 <g><text x="24" y="58" class="p">$</text><clipPath id="c0"><rect x="40" y="40" height="24" width="0" class="w0"/></clipPath><text x="42" y="58" class="cmd" clip-path="url(#c0)">whoami</text></g>
 <text x="24" y="84" class="out o0">Anurag · Developer × Educator</text>
 <g><text x="24" y="118" class="p">$</text><clipPath id="c1"><rect x="40" y="100" height="24" width="0" class="w1"/></clipPath><text x="42" y="118" class="cmd" clip-path="url(#c1)">cat stack.txt</text></g>
