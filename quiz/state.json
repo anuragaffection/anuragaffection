@@ -1,20 +1,21 @@
 {
-  "current": 28,
+  "current": 7,
   "asked": [
     12,
     6,
     1,
     14,
     15,
-    21
+    21,
+    28
   ],
   "tried": {},
-  "since": "2026-10-30T06:16:35.354Z",
+  "since": "2026-10-30T15:32:27.155Z",
   "leaderboard": {
-    "anuragaffection": 1
+    "anuragaffection": 2
   },
   "lastSolved": {
-    "id": 12,
+    "id": 28,
     "login": "anuragaffection"
   }
 }
