@@ -7,11 +7,11 @@
 ### 🧠 Quiz time — can you get this one?
 
 <!-- QUIZ:START -->
-<p><code>DSA</code>&nbsp; <b>Average-case time to look up a key in a hash map is…</b></p>
+<p><code>JavaScript</code>&nbsp; <b>In JavaScript, 0.1 + 0.2 === 0.3 is…</b></p>
 
 <table>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q8%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;O(1)</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q8%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;O(log n)</a></td></tr>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q8%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;O(n)</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q8%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;O(n²)</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q18%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;true</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q18%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;false</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q18%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;NaN</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q18%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;A TypeError</a></td></tr>
 </table>
 
 <sub>Click an answer → press <b>Create</b> on the issue page → the bot replies. A new question appears when someone gets it right, and every morning.</sub><br>
