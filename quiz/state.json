@@ -1,5 +1,5 @@
 {
-  "current": 23,
+  "current": 25,
   "asked": [
     12,
     6,
@@ -17,15 +17,16 @@
     11,
     20,
     17,
-    4
+    4,
+    23
   ],
   "tried": {},
-  "since": "2026-11-09T07:01:44.094Z",
+  "since": "2026-11-10T06:27:37.991Z",
   "leaderboard": {
-    "anuragaffection": 2
+    "anuragaffection": 3
   },
   "lastSolved": {
-    "id": 28,
+    "id": 23,
     "login": "anuragaffection"
   }
 }

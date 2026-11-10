@@ -7,21 +7,21 @@
 ### 🧠 Quiz time — can you get this one?
 
 <!-- QUIZ:START -->
-<p><code>Databases</code>&nbsp; <b>Adding an index to a database column mainly…</b></p>
+<p><code>System design</code>&nbsp; <b>By the CAP theorem, during a network partition a distributed system must choose between…</b></p>
 
 <table>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q23%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;Speeds up reads that filter on it, slows writes a little</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q23%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;Speeds up writes</a></td></tr>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q23%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;Reduces disk usage</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q23%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;Removes duplicate rows</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q25%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;Cost and Performance</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q25%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;Consistency and Availability</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q25%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;Caching and Persistence</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q25%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;Security and Speed</a></td></tr>
 </table>
 
 <sub>Click an answer → press <b>Create</b> on the issue page → the bot replies. A new question appears when someone gets it right, and every morning.</sub><br>
-<sub>Last one (Git) solved by <a href="https://github.com/anuragaffection">@anuragaffection</a></sub>
+<sub>Last one (Databases) solved by <a href="https://github.com/anuragaffection">@anuragaffection</a></sub>
 <!-- QUIZ:END -->
 
 ### 🏆 Solvers
 
 <!-- BOARD:START -->
-<a href="https://github.com/anuragaffection" title="@anuragaffection: 2 correct"><img src="https://github.com/anuragaffection.png?size=48" width="40" height="40" alt="@anuragaffection"></a><sup>&nbsp;2</sup>
+<a href="https://github.com/anuragaffection" title="@anuragaffection: 3 correct"><img src="https://github.com/anuragaffection.png?size=48" width="40" height="40" alt="@anuragaffection"></a><sup>&nbsp;3</sup>
 <!-- BOARD:END -->
 
 <br>
