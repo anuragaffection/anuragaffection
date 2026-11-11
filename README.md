@@ -7,11 +7,11 @@
 ### 🧠 Quiz time — can you get this one?
 
 <!-- QUIZ:START -->
-<p><code>Web</code>&nbsp; <b>Which HTTP method is defined as idempotent (repeating it has the same effect as once)?</b></p>
+<p><code>Databases</code>&nbsp; <b>In ACID, what does the I stand for?</b></p>
 
 <table>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q22%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;POST</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q22%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;PUT</a></td></tr>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q22%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;PATCH</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q22%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;CONNECT</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q24%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;Indexing</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q24%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;Integrity</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q24%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;Isolation</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q24%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;Immutability</a></td></tr>
 </table>
 
 <sub>Click an answer → press <b>Create</b> on the issue page → the bot replies. A new question appears when someone gets it right, and every morning.</sub><br>
