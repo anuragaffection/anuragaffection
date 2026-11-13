@@ -7,11 +7,11 @@
 ### 🧠 Quiz time — can you get this one?
 
 <!-- QUIZ:START -->
-<p><code>DSA</code>&nbsp; <b>Detecting a cycle in a linked list with O(1) extra space uses…</b></p>
+<p><code>DSA</code>&nbsp; <b>What is the worst-case running time of quicksort?</b></p>
 
 <table>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q5%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;A hash set of visited nodes</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q5%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;Floyd's slow/fast pointers</a></td></tr>
-<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q5%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;Recursion</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q5%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;Sorting the nodes</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q3%20A&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>A</b>&nbsp;&nbsp;O(n log n)</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q3%20B&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>B</b>&nbsp;&nbsp;O(n)</a></td></tr>
+<tr><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q3%20C&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>C</b>&nbsp;&nbsp;O(n²)</a></td><td><a href="https://github.com/anuragaffection/anuragaffection/issues/new?title=quiz%3A%20Q3%20D&body=Just%20press%20**Create**%20below%20%E2%80%94%20a%20bot%20checks%20your%20answer%2C%20replies%20here%20in%20about%20a%20minute%20and%20updates%20the%20leaderboard."><b>D</b>&nbsp;&nbsp;O(log n)</a></td></tr>
 </table>
 
 <sub>Click an answer → press <b>Create</b> on the issue page → the bot replies. A new question appears when someone gets it right, and every morning.</sub><br>
