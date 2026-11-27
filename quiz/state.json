@@ -1,15 +1,16 @@
 {
-  "current": 21,
+  "current": 15,
   "asked": [
     16,
     2,
     20,
     12,
     23,
-    28
+    28,
+    21
   ],
   "tried": {},
-  "since": "2026-11-26T08:45:59.801Z",
+  "since": "2026-11-27T08:56:39.309Z",
   "leaderboard": {
     "anuragaffection": 3
   },
